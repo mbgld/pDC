@@ -1,0 +1,4 @@
+# QC and Identify each case's lung cancer cell.
+QC with DropletUtils
+QC with seurat and idenfity epithelial cluster
+Identify cancer cells using inferCNV
