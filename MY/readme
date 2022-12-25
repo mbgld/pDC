@@ -1,1 +1,10 @@
-Anaysis of MY subset
+# Anaysis of MY subset comprised of monocytes in the tissues, tissue resident macrophages, and dendritic cell clusters.
+## The main purpose of these codes are (1) clear visualization, (2) counting of each cell clusters, and (3) DEG comparision within MY clusters.
+
+Reclustering of MY subset for graphics.
+Trajectory by SingShot.
+DotPlot for major maker gene of myeloid cell lineage. 
+Prettyheatmap for myeloid cell lineage.
+Counting each subclusters.
+Analysis by DEG and GSEA analysis.
+Generate dataset for cellphoneDB analysis.
