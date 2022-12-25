@@ -1,4 +1,8 @@
-# QC and Identify each case's lung cancer cell.
+# These are the codes for the initial QC, generate seurat object, and identify each case's lung cancer cell.
+
 QC with DropletUtils
-QC with seurat and idenfity epithelial cluster
+2nd QC with seurat and generate 1st seurat object
+Idenfity epithelial cell cluster in each seurat object
+Integrate dataset of tumor and normal tissue of indivisual case. 
 Identify cancer cells using inferCNV
+Take out cancer cell barcodes of indivisual case.
