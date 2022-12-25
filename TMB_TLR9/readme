@@ -1,0 +1,7 @@
+# Relationship between TMB and TLR9 expression in TCGA-LUAD dataset
+
+High TMB means >= 20
+Intermediate TMB means 5< and <20
+Low TMB means <=5
+
+TMB was calculated by maftools package and TCGA-LUAD .maf files
